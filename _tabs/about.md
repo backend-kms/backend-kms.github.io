@@ -24,4 +24,3 @@ Django와 FastAPI 기반의 프로덕션 환경에서 시스템을 설계하고 
 -----
 📞 Contact: <a href="mailto:cod.kms@gmail.com">cod.kms@gmail.com</a><br>
 🔗 GitHub: <a href="https://github.com/backend-kms" target="_blank">github.com/backend-kms</a><br>
-📝 Tistory: <a href="https://mindu6424.tistory.com" target="_blank">mindu6424.tistory.com</a>
