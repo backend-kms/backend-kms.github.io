@@ -227,3 +227,12 @@ jekyll-archives:
 
 # The end of the file. You can add custom configurations below this line.
 # bundle exec jekyll serve
+
+jekyll_compose:
+  auto_open: false
+  default_front_matter:
+    posts:
+      description:
+      category:
+      tags:
+      toc: true
