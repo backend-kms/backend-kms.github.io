@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://backend-kms.github.io/sitemap.xml
