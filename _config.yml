@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: backend-kms.log # the main title
+title: min.log # the main title
 
 tagline: Engineering Notes from Production # it will display as the subtitle
 
@@ -28,8 +28,8 @@ url: "https://backend-kms.github.io"
 github:
   username: backend-kms # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
